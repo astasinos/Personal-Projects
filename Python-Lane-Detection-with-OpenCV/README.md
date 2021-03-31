@@ -7,11 +7,11 @@ Then, Hough Transform is used to detect the lines. This is by no means a fully-f
 You can see a demo in the following gif.
 
   
-<img src="https://github.com/astasinos/Personal-Projects/blob/main/Python-Lane-Detection-with-OpenCV/blob/main/videos/gif_image.gif"/>
+<img src="https://github.com/astasinos/Personal-Projects/blob/main/Python-Lane-Detection-with-OpenCV/blob/videos/gif_image.gif"/>
 
 <p align="center">
   
-  <img src="https://github.com/astasinos/Personal-Projects/blob/main/Python-Lane-Detection-with-OpenCV/blob/main/videos/Screenshot_3.png"/>
+  <img src="https://github.com/astasinos/Personal-Projects/blob/main/Python-Lane-Detection-with-OpenCV/blob/videos/Screenshot_3.png"/>
 </p>
 
 The data used was taken from a youtube video of a greek road: [https://www.youtube.com/watch?v=KSHLTmPVSKg](https://www.youtube.com/watch?v=KSHLTmPVSKg)
