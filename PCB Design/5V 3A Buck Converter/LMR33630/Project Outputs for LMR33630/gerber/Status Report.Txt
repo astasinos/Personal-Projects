@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LMR33630.PcbDoc]
+   Generated File[LMR33630.TXT]
+   Generated File[LMR33630.LDP]
+   Generated File[LMR33630.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:26:41 μμ On 24/4/2021
